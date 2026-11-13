@@ -23,4 +23,4 @@ print("Year: ", year)
 
 print("Day: ", day)
 print("Weekday: ", weekday_name)
-print("Month; ", real_month)
+print("Month: ", real_month)
